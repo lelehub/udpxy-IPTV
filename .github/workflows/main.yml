@@ -27,8 +27,8 @@ jobs:
             -
                 name: Setup Git Infomation
                 run: |
-                    git config --global user.name 'lelehub'
-                    git config --global user.email '1449596563@qq.com'
+                        git config --local user.name "github-actions[bot]"
+                        git config --local user.email "github-actions[bot]@users.noreply.github.com"
             # Record (use record.sh or record2.sh)
             -
                 name: Recording
