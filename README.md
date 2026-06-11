@@ -58,3 +58,13 @@ luci-app-udpxy
 以上都设置好了后，将之前的 rtp://239.3.1.241:8000 改为 http://192.168.2.1:4022/rtp/239.3.1.241:8000 再看看是否能播放，能播放就说明大功告成了。
 
 最后可以网上现成的「北京联通IPTV播放列表」：https://github.com/lelehub/udpxy-IPTV/blob/main/bj-unicom-iptv-plus.m3u
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=lelehub%2Fudpxy-IPTV&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lelehub/udpxy-IPTV&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lelehub/udpxy-IPTV&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lelehub/udpxy-IPTV&type=date&legend=bottom-right" />
+ </picture>
+</a>
